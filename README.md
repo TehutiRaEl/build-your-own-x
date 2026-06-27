@@ -1,3 +1,6 @@
+<!-- Sovereign Hive Knowledge Source | Engineering curriculum: rebuild technologies from scratch | Queen: THEHIVE :8080 -->
+> **Sovereign Hive Knowledge Source** — Engineering curriculum for the hive. Rebuild popular technologies from scratch to understand them deeply.
+
 [![Banner](https://codecrafters.io/images/new-ccgithub-banner.png)](https://codecrafters.io/github-banner)
 
 ## Build your own &lt;insert-technology-here&gt;
