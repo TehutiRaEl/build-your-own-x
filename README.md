@@ -1,6 +1,8 @@
 <!-- Sovereign Hive Knowledge Source | Engineering curriculum: rebuild technologies from scratch | Queen: THEHIVE :8080 -->
 > **Sovereign Hive Knowledge Source** — Engineering curriculum for the hive. Rebuild popular technologies from scratch to understand them deeply.
 
+> This repository participates in the Sovereign Hive governance convention defined upstream in [TehutiRaEl/THEHIVE](https://github.com/TehutiRaEl/THEHIVE/blob/claude/session-continuation-owj5wr/docs/GOVERNANCE.md). As a documentation-only repository it does not carry CI gates or a local role catalog.
+
 [![Banner](https://codecrafters.io/images/new-ccgithub-banner.png)](https://codecrafters.io/github-banner)
 
 ## Build your own &lt;insert-technology-here&gt;
